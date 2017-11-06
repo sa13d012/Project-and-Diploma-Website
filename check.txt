@@ -1,0 +1,7 @@
+Check 1
+	2017-10-17 16:10
+	Check 1, Score-1:5, Score-2:1
+	
+Check 2
+	2017-11-06 17:58
+	Check 2, Score-1:5, Score-2:1.5, Score-3:1
